@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Tracks/trackOne.txt</file>
+        <file>Tracks/trackThree.txt</file>
+        <file>Tracks/trackTwo.txt</file>
+    </qresource>
+</RCC>

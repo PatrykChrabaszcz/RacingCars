@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Tekstury/background.jpg</file>
+        <file>Tekstury/beforeStartTextureSmall.jpg</file>
+        <file>Tekstury/blueCar.png</file>
+        <file>Tekstury/grassTextureSmallOne.jpg</file>
+        <file>Tekstury/grassTextureSmallTwo.jpg</file>
+        <file>Tekstury/greenCar.png</file>
+        <file>Tekstury/redCar.png</file>
+        <file>Tekstury/roadTextureSmallCorner.jpg</file>
+        <file>Tekstury/roadTextureSmallStraight.jpg</file>
+        <file>Tekstury/rockTextureSmallOne.jpg</file>
+        <file>Tekstury/rockTextureSmallTwo.jpg</file>
+        <file>Tekstury/sand3.jpg</file>
+        <file>Tekstury/sandTextureSmallOne.jpg</file>
+        <file>Tekstury/sandTextureSmallThree.jpg</file>
+        <file>Tekstury/sandTextureSmallTwo.jpg</file>
+        <file>Tekstury/startTextureSmall.jpg</file>
+        <file>Tekstury/waterTextureSmallOne.jpg</file>
+        <file>Tekstury/waterTextureSmallTwo.jpg</file>
+        <file>Tekstury/yellowCar.png</file>
+    </qresource>
+</RCC>
